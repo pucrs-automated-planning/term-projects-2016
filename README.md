@@ -11,4 +11,4 @@ Repository for term project material
 | 10h45     | Using JSHOP External Calls to Compute Geometric Predicates in a Hierarchical Task Network Planning Domain | [Guilherme Azevedo](/guilhermea) | 
 | 11h00     | Planejamento Automático em um Jogo Digital         | [Juarez dos Santos](/juarez) |
 | 11h15     | TBD   | [Marcelo Paravisi](/marcelo)  |
-| 11h30     | TBD   | [Tabajara Rodrigues](/tabajara) |
+| 11h30     | Temporal Planning to Coordinate Actions in Disaster Environment | [Tabajara Rodrigues](/tabajara) |
